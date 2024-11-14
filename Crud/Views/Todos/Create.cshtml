@@ -1,0 +1,60 @@
+﻿@model Crud.ViewModel.TodoVM
+
+<form method="post" asp-controller="Todos" asp-action="Create" class="p-4 border rounded bg-light shadow-sm">
+
+    <div class="form-group mb-3">
+        <label asp-for="Title" class="form-label fw-bold">Title</label>
+        <input asp-for="Title" class="form-control" placeholder="Enter title" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="Description" class="form-label fw-bold">Description</label>
+        <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter description"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="fw-bold">Status</label>
+        <div class="form-check">
+            <input asp-for="IsFinished" class="form-check-input" id="statusInProgress" value="false" type="radio" />
+            <label for="statusInProgress" class="form-check-label">In Progress</label>
+        </div>
+        <div class="form-check">
+            <input asp-for="IsFinished" class="form-check-input" id="statusFinished" value="true" type="radio" />
+            <label for="statusFinished" class="form-check-label">Completed</label>
+        </div>
+    </div>
+
+    <div class="form-group mb-3">
+        <label class="fw-bold">Tags</label>
+        @foreach (var item in Enum.GetValues(typeof(Crud.ViewModel.TodoTag)))
+        {
+            <div class="form-check form-check-inline">
+                <input type="checkbox" name="SelectedTags" value="@item" class="form-check-input" id="tag_@item" />
+                <label for="tag_@item" class="form-check-label">@item</label>
+            </div>
+        }
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="User" class="form-label fw-bold">Assign To</label>
+        <select asp-for="User" class="form-select">
+            <option value="">Select User</option>
+            <option value="Karim">Karim</option>
+            <option value="do3bol">Do3bol</option>
+            <option value="Taha">Taha</option>
+        </select>
+        <span asp-validation-for="User" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="CreateAd" class="form-label fw-bold">Creation Date</label>
+        <input asp-for="CreateAd" type="datetime-local" class="form-control" />
+        <span asp-validation-for="CreateAd" class="text-danger"></span>
+    </div>
+
+    <div class="text-end">
+        <button type="submit" class="btn btn-primary">Add</button>
+    </div>
+</form>

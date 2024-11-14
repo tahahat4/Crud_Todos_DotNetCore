@@ -1,0 +1,48 @@
+﻿@model Crud.ViewModel.TodoVM
+
+<div class="container my-5">
+    <div class="card shadow-sm">
+        <div class="card-header text-white bg-primary">
+            <h5 class="card-title mb-0">@Model.Title</h5>
+        </div>
+        <div class="card-body">
+            <p class="card-text"><strong>Description:</strong> @Model.Description</p>
+
+            <p class="card-text">
+                <strong>Status:</strong>
+                @if (Model.IsFinished)
+                {
+                    <span class="badge bg-success">Completed</span>
+                }
+                else
+                {
+                    <span class="badge bg-warning text-dark">In Progress</span>
+                }
+            </p>
+
+            <p class="card-text">
+                <strong>Tags:</strong>
+                @if (Model.SelectedTags != null && Model.SelectedTags.Count > 0)
+                {
+                    @foreach (var tag in Model.SelectedTags)
+                    {
+                        <span class="badge bg-secondary">@tag</span>
+                    }
+                }
+                else
+                {
+                    <span class="text-muted">No tags selected</span>
+                }
+            </p>
+
+
+            <p class="card-text"><strong>Assigned To:</strong> @Model.User</p>
+            <p class="card-text"><strong>Creation Date:</strong> @Model.CreateAd.ToString("f")</p>
+
+            <div class="card-footer text-muted">
+                <a href="@Url.Action("Index", "Todos")" class="btn btn-sm btn-secondary">Back to List</a>
+            </div>
+        </div>
+       
+    </div>
+</div>

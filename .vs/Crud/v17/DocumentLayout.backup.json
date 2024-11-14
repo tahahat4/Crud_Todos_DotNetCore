@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\views\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\views\\todos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\views\\todos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\views\\todos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\views\\todos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\views\\todos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\viewmodel\\todovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\viewmodel\\todovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|e:\\ehei\\4gi\\.net\\.net tp\\gardenia\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77F4CAE1-1149-475D-AEAD-54388C158645}|Crud\\Crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Todos\\Edit.cshtml",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Edit.cshtml*",
+              "RelativeToolTip": "Crud\\Views\\Todos\\Edit.cshtml*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T12:20:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Todos\\Delete.cshtml",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Delete.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Todos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T12:16:46.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Todos\\Create.cshtml",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Create.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Todos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T11:53:49.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Todos\\Details.cshtml",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Details.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Todos\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T11:20:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBYAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T11:00:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud\\Views\\Todos\\Index.cshtml",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Views\\Todos\\Index.cshtml",
+              "RelativeToolTip": "Crud\\Views\\Todos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T10:54:34.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoVM.cs",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\ViewModel\\TodoVM.cs",
+              "RelativeDocumentMoniker": "Crud\\ViewModel\\TodoVM.cs",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\ViewModel\\TodoVM.cs",
+              "RelativeToolTip": "Crud\\ViewModel\\TodoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:41:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Crud",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Crud.csproj",
+              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Crud.csproj",
+              "RelativeToolTip": "Crud\\Crud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T10:41:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\TodosController.cs",
+              "ToolTip": "E:\\EHEI\\4GI\\.net\\.net TP\\gardenia\\Crud\\Crud\\Controllers\\TodosController.cs*",
+              "RelativeToolTip": "Crud\\Controllers\\TodosController.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv08AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:40:55.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
